@@ -777,7 +777,7 @@ footer::before {
 
 .footer-links a,
 .address-links li {
-    color: var(--coffee-accent);
+    color: white;
     text-decoration: none;
     transition: all 0.4s var(--transition-timing);
     display: flex;
